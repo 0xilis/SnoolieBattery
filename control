@@ -1,0 +1,9 @@
+Package: cum.0xilis.snooliebattery
+Name: SnoolieBattery
+Author: Snoolie K
+Description: Battery Percent on iOS 15
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
